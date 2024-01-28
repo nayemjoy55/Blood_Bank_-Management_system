@@ -10,3 +10,13 @@
       - Deployment (First Increment):Deploy the initial version of the Blood Bank Management System for users to access and provide feedback.
       - Testing (Subsequent Increments):Conduct testing for each increment to ensure new features integrate smoothly and identify any issues.
       - Final Testing and Deployment:Conduct thorough testing on the final version to ensure all features work seamlessly together.Deploy the complete Blood Bank Management System for widespread use.
+## Submitted by:
+### Name: Abu Hasnat Nayem
+### ID: 2002017
+### L-3 S-I
+### Department: CSE
+
+## Submitted TO:
+### Name: Pankaj Bhowmik
+### Lecturer
+### Department of CSE, HSTU
